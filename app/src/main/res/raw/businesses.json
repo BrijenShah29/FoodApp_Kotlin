@@ -1,0 +1,369 @@
+[
+  {
+    "name":"TimHorton's Coffee",
+    "address":"20 Bristol Rd W",
+    "image":"https://www.freepnglogos.com/uploads/tim-hortons-png-logo/tim-hortons-cafe-bake-shop-png-logo-11.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Coffee Mocha",
+        "price": 4.00,
+        "url": "https://www.acouplecooks.com/wp-content/uploads/2020/10/How-to-Make-a-Mocha-002.jpg"
+      },
+      {
+        "name": "Mocha Latte",
+        "price": 4.00,
+        "url": "https://www.spoonfulofflavor.com/wp-content/uploads/2021/11/mocha-latte-starbucks-copycat.jpg"
+      },
+      {
+        "name": "Caramel Latte",
+        "price": 4.99,
+        "url": "https://snacksandsips.com/wp-content/uploads/2020/05/03-Caramel-Latte.jpg"
+      },
+      {
+        "name": "Cappuccino",
+        "price": 3.49,
+        "url": "https://lianaskitchen.co.uk/wp-content/uploads/how-to-make-a-cappuccino-without-an-espresso-machine.jpg"
+      },
+      {
+        "name": "French vanilla",
+        "price": 3.49,
+        "url": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/exps79249_WSD1999447A12_17_1b_WEB.jpg"
+      },
+      {
+        "name": "Iced Coffee",
+        "price": 3.49,
+        "url": "https://images.immediate.co.uk/production/volatile/sites/2/2021/08/coldbrew-iced-latte-with-my-recipe-photo-by-@ellamiller_photo-f1e3d9e.jpg"
+      },
+      {
+        "name": "Iced Latte",
+        "price": 3.49,
+        "url": "https://images.chickadvisor.com/item/86768/375/i/tim-hortons-perfectly-uncomplicated-iced-latte.jpg?ic=2"
+      },
+      {
+        "name": "Hot Chocolate",
+        "price": 2.99,
+        "url": "https://www.allrecipes.com/thmb/lQxfuazJHaRcF-x5bydgCcXyN_8=/2000x2000/filters:no_upscale()/261435-baileys-hot-chocolate-ddmfs-1x1-0833-cabc1832b4f24ab68f4d1754b665e67c.jpg"
+      },
+      {
+        "name": "Dark Roast Coffee ",
+        "price": 3.99,
+        "url": "https://images.chickadvisor.com/item/39433/375/i/tim-hortons-dark-roast-coffee-1.jpg"
+      },
+      {
+        "name": "Coffee",
+        "price": 1.99,
+        "url": "https://www.kindpng.com/picc/m/323-3233719_coffee-cup-and-tim-horton-hockey-card-hd.png"
+      }
+    ]
+  },
+  {
+    "name":"Popeyes",
+    "address":"1 Bartley Bull Pkwy Unit 23",
+    "image":"https://1000logos.net/wp-content/uploads/2021/04/Popeyes-logo.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 9:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 11:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 11:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 9:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Classic Chicken Sandwich",
+        "price": 7.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/fc439018440af44b5fd27f60328ee840d6b6e4c3-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Spicy Chicken Sandwich ",
+        "price": 7.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/83314c4de07d101106cd6767e57271880b989bc4-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Blackened Chicken Sandwich",
+        "price": 7.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/4abe7e016e5027d62046cea6dbcc93d73c98ffc1-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Spicy Blackened Chicken Sandwich",
+        "price": 7.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/8ae8e856eec863129f548abdc508c2079d0a50bf-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "4Pc Signature Chicken Combo",
+        "price": 9.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/a412de33077dd22818675dbd6e095038f35e9e8c-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "8Pc Signature Chicken Box",
+        "price": 16.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/2b551a1d8ae685757b6605a08da90d8b9a92379b-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "16Pc Chicken Family Meal",
+        "price": 24.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/7488145e368122d31621d45c6759719155f66533-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Regular Cajun Fries",
+        "price": 2.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_plk_us/994ad0a5d3fc01e6ee56138e95c60593f42e9354-2000x1333.png?w=750&q=40&fit=max&auto=format"
+      }
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":"356 Yonge Street",
+    "image":"https://www.freepnglogos.com/uploads/mcdonalds-png-logo/mcdonalds-png-logo-simple-m-1.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 9:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 11:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 11:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 9:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Hamburger",
+        "price": 8.49,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-hamburger:product-header-desktop?wid=829&hei=455&dpr=off"
+      },
+      {
+        "name": "Cheese Burger",
+        "price": 8.49,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-cheeseburger-2:product-header-desktop?wid=829&hei=455&dpr=off"
+      },
+      {
+        "name": "McDouble",
+        "price": 6.99,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-mcdouble-1:product-header-desktop?wid=829&hei=455&dpr=off"
+      },
+      {
+        "name": "Junior Chicken",
+        "price": 3.49,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-junior-chicken:product-header-desktop?wid=829&hei=455&dpr=off"
+      },
+      {
+        "name": "Vanilla Cone",
+        "price": 3.49,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-vanilla-cone:product-header-desktop?wid=829&hei=455&dpr=off"
+      },
+      {
+        "name": "Baked Apple Pie",
+        "price": 3.49,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-baked-apple-pie:product-header-desktop?wid=829&hei=455&dpr=off"
+      },
+      {
+        "name": "Sausage McMuffin",
+        "price": 5.49,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-sausage-mcmuffin:product-header-desktop?wid=829&hei=455&dpr=off"
+      },
+      {
+        "name": "World Famous Fries",
+        "price": 2.99,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-fries-small:product-header-desktop?wid=829&hei=455&dpr=off"
+      }
+    ]
+  },
+  {
+    "name":"StarBucks Coffee",
+    "address":"189 Rathburn Rd W",
+    "image":"https://www.freepnglogos.com/uploads/starbucks-logo-png-transparent-0.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 9:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 10:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chai Tea Latte",
+        "price": 3.99,
+        "url": "https://globalassets.starbucks.com/assets/2d52f16a22fb40ff898be1815ecc952e.jpg?impolicy=1by1_wide_topcrop_630"
+      },
+      {
+        "name": "Caffe Misto",
+        "price": 4.59,
+        "url": "https://globalassets.starbucks.com/assets/d668acbc691b47249548a3eeac449916.jpg?impolicy=1by1_wide_topcrop_630"
+      },
+      {
+        "name": "Light Caramel Frappucino",
+        "price": 4.59,
+        "url": "https://globalassets.starbucks.com/assets/410cd92738514641bf497d4b6a18c30f.jpg?impolicy=1by1_wide_topcrop_630"
+      },
+      {
+        "name": "Nofat Caffe Mocha",
+        "price": 5.59,
+        "url": "https://caloriecap.com/media/k2/items/cache/0dc28c5524c53d3b8602a6470de0b125_XL.jpg"
+      },
+      {
+        "name": "Brewed Coffee",
+        "price": 4.49,
+        "url": "https://starbmag.com/wp-content/uploads/2022/08/image-404.png"
+      },
+      {
+        "name": "Nitro Cold Brew",
+        "price": 6.99,
+        "url": "https://globalassets.starbucks.com/assets/8c5dcfa053504f85b3e7af2fa451346d.jpg?impolicy=1by1_wide_topcrop_630"
+      },
+      {
+        "name": "Iced BlackTea",
+        "price": 3.99,
+        "url": "https://stories.starbucks.com/uploads/2021/02/SBX20190422_29839-IcedBlackTea-ToGo-onWhite_CoreLib_sRGB_G7OP-1024x1024.jpg"
+      },
+      {
+        "name": "Caffe Americano",
+        "price": 6.99,
+        "url": "https://globalassets.starbucks.com/assets/921a409e6f55407da52eee4c8ad13ada.jpg?impolicy=1by1_wide_topcrop_630"
+      },
+      {
+        "name": "Risretto Bianco",
+        "price": 7.99,
+        "url": "https://stories.starbucks.com/wp-content/uploads/2019/01/what-is-ristretto-caramel-mach-1.jpg"
+      },
+      {
+        "name": "Mocha Glace",
+        "price": 8.99,
+        "url": "https://us.123rf.com/450wm/dontree/dontree1704/dontree170400549/76446398-caf%C3%A9-%C3%A0-la-mocha-glac%C3%A9-au-caf%C3%A9-.jpg"
+      },
+      {
+        "name": "JavaChip Frappuccino",
+        "price": 6.99,
+        "url": "https://images.chickadvisor.com/item/50514/375/i/starbucks-java-chip-frappuccino.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Kentucky Fried Chicken (KFC)",
+    "address":"9940 Airport Rd",
+    "image":"https://www.freepnglogos.com/uploads/kfc-png-logo/camera-kfc-png-logo-0.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 9:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 11:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 11:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 9:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Gravy Lovers Sandwich Box Meal",
+        "price": 16.49,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/gravy_lovers_box_meal.jpg?v=8.8"
+      },
+      {
+        "name": "Gravy Lovers Double Bucket Feast",
+        "price": 46.49,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/gravy_lovers_double_bucket_feast.jpg?v=8.8"
+      },
+      {
+        "name": "Gravy Lovers Sandwich Combo",
+        "price": 13.49,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/gravy_lovers_combo.jpg?v=8.8"
+      },
+      {
+        "name": "Gravy Lovers Double Bucket Meal",
+        "price": 43.99,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/gravy_lovers_double_bucket_meal.jpg?v=8.8"
+      },
+      {
+        "name": "Gravy Lovers Sandwich ",
+        "price": 11.49,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/gravy_lovers_sandwich.jpg?v=8.8"
+      },
+      {
+        "name": "Gravy Lovers Double Bucket",
+        "price": 40.99,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/gravy_lovers_double_bucket.jpg?v=8.8"
+      },
+      {
+        "name": "KFC Famous Chicken Chicken Sandwich Box Meal",
+        "price": 14.99,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/fccs_ultimate_box_meal.jpg?v=8.8"
+      },
+      {
+        "name": "Simple Fries",
+        "price": 4.99,
+        "url": "https://www.kfc.ca/Content/OnlineOrderingImages/Menu/Items/lg2x/medium_fries.jpg?v=8.8"
+      }
+    ]
+  },
+  {
+    "name":"Burger King",
+    "address":"189 Wick Rd",
+    "image":"https://www.freepnglogos.com/uploads/burger-king-png-logo/burger-king-png-logo-0.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 9:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 11:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 11:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 9:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Whopper",
+        "price": 3.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/84743a96a55cb36ef603c512d5b97c9141c40a33-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Double Whopper",
+        "price": 5.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/741f937b50b66ff1f6314046458cf3a4ffe30d8d-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Triple Whopper with Cheese",
+        "price": 8.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/f3d7588c1f46ad6a1afaa3404cec65ed6053879f-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Bacon King",
+        "price": 7.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/60712f81a07316d3300b65823ab68b59def70c8e-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Cheeseburger",
+        "price": 4.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/fea26b68e7476b145767edb173a348e613c4dfb5-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "price": 8.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/ec3374f3e3ae162fabaf73a299b4d3042269ed6a-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Single Quarter Pound King",
+        "price": 9.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/55361a27d204b821ff404ed6a70d654c1224ecb0-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Big King",
+        "price": 15.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/d06846598b47ff0ae865299a30b2826993567e9c-1333x1333.png?w=750&q=40&fit=max&auto=format"
+      }
+    ]
+  }
+    ]

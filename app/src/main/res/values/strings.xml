@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MAPD711_Group8_ProjectSEM1</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account_register">don\'t have an account? Register !</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="typeYourPassword">Type Your Password</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered_sign_in">Already Registered , Sign In !</string>
+    <string name="type_your_registered_email">Type your Registered Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_card_number">Enter Card Number</string>
+    <string name="enter_cardholder_name">Enter Cardholder Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_street_address_1">Enter Street Address 1</string>
+    <string name="enter_street_address_2">Enter Street Address 2</string>
+    <string name="enter_province">Enter Province</string>
+    <string name="enter_zipcode">Enter Zipcode</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="payment_method_optional">Payment Method (Optional)</string>
+    <string name="yy">YY</string>
+    <string name="dash">/</string>
+    <string name="cvv">CVV</string>
+    <string name="mm">MM</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_user">welcome User</string>
+    <string name="checkout">Checkout</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="_1">1</string>
+    <string name="total_items_in_cart">Total items in cart</string>
+    <string name="delivery_charge">Delivery Charge</string>
+    <string name="success">Your Order Has been Placed in %s successfully!!</string>
+    <string name="done">Done</string>
+    <string name="congratulations">Congratulations %s !!</string>
+    <string name="sub_total">Sub total</string>
+    <string name="confirm_order">Confirm Order</string>
+
+</resources>
